@@ -1,0 +1,22 @@
+{
+  "name": "test-task-netologia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sm-Andrey/test-task-netologia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sm-Andrey/test-task-netologia/issues"
+  },
+  "homepage": "https://github.com/Sm-Andrey/test-task-netologia#readme",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
